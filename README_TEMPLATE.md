@@ -186,7 +186,7 @@ Churned customers average $74.44/month vs. $61.27 for retained customers. Senior
 | Deliverable | Description | Location |
 |-------------|--------------|----------|
 | Power BI dashboard | Interactive dashboard analyzing churn by contract, tenure, service, and payment method | power-bi/Telecom_Churn_Dashboard.pbix |
-| Dashboard screenshots | Static images of the dashboard for quick viewing | visuals/ | Telecom Churn Dashboard pic
+| Dashboard screenshots | Static images of the dashboard for quick viewing | visuals/Telecom Churn Dashboard pic
 | Slide deck | Presentation summarizing business problem, findings, and recommendations | reports/Telco_Churn_Presentation.pptx |
 
 ---
