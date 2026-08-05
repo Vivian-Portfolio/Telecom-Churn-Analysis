@@ -193,7 +193,8 @@ Churned customers average $74.44/month vs. $61.27 for retained customers. Senior
 
 ## 11. Author
 
-**Vivian Okwara]**
+**Vivian Okwara**
+
 Data Analyst|Lagos Nigeria 
 
 - 🔗 https://Linkedin.com/in/okwara-vivian
