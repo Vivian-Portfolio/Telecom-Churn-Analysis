@@ -122,10 +122,7 @@ This project uses the [Telco Customer Churn dataset](https://www.kaggle.com/data
 ---
 
 
-
----
-
-## 8. Analysis & Metrics
+## 6. Analysis & Metrics
 
 ### Analytical Approach
 
@@ -148,7 +145,7 @@ This was primarily exploratory and diagnostic - segmenting the customer base by 
 
 ---
 
-## 9. Key Insights
+## 7. Key Insights
 
 **Insight 1: Contract type is the #1 driver of churn*
 Month-to-month customers churn at 40%+, compared to ~10% for one-year contracts and under 5% for two-year contracts. This suggests contract flexibility, while attractive to customers, comes at a major retention cost.
@@ -164,7 +161,7 @@ Churned customers average $74.44/month vs. $61.27 for retained customers. Senior
 
 ---
 
-## 10. Recommendations
+## 8. Recommendations
 
 | Priority | Recommendation | Based On | Suggested Owner |
 |----------|-----------------|----------|------------------|
@@ -175,7 +172,7 @@ Churned customers average $74.44/month vs. $61.27 for retained customers. Senior
 
 ---
 
-## 11. Assumptions & Limitations
+## 9. Assumptions & Limitations
 ### Assumptions
 - The dataset was assumed to represent a complete and accurate snapshot of customer accounts at the time of extraction, with no independent validation against the company's live billing system.
 - Churn was treated as a fixed outcome (Yes/No) for each customer, without visibility into churn timing relative to the snapshot date.
@@ -187,7 +184,7 @@ Churned customers average $74.44/month vs. $61.27 for retained customers. Senior
 
 ---
 
-## 13. Deliverables
+## 10. Deliverables
 
 | Deliverable | Description | Location |
 |-------------|--------------|----------|
@@ -197,7 +194,7 @@ Churned customers average $74.44/month vs. $61.27 for retained customers. Senior
 
 ---
 
-## 14. Author
+## 11. Author
 
 **Vivian Okwara]**
 Data Analyst|Lagos Nigeria 
