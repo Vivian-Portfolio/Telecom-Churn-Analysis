@@ -1,4 +1,4 @@
-# Telecom Customer Churn Analysis
+# Telco Customer Churn Analysis
 *Analyzing 7,043 telecom customer accounts to understand why customers churn and what the business can do to reduce a 26.5% churn rate.*
 
 ---
