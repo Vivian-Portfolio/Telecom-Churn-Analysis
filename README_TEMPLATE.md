@@ -117,10 +117,7 @@ This project uses the [Telco Customer Churn dataset](https://www.kaggle.com/data
 
 6. **Output:** An interactive Power BI dashboard and a slide deck summarizing key findings and recommendations for stakeholders.
 
-```
-
 ---
-
 
 ## 6. Analysis & Metrics
 
