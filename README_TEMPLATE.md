@@ -63,7 +63,7 @@
 |-----------|---------|
 | **In Scope** | 7,043 customer accounts covering demographics, contract type, services subscribed, billing details, and churn outcome |
 | **Out of Scope** | Customer support interaction logs, marketing campaign response data |
-| **Time Period** | Snapshot dataset (not time-series) |
+| **Time Period** | Snapshot dataset (no time-period avaiable) |
 | **Granularity** | One row per customer account |
 
 
@@ -83,7 +83,7 @@
 Telecom-Churn-Analysis/
 │
 ├── data/
-│   └── raw/                  # Original Telco Customer Churn dataset (not hosted here — see Data Source)
+│   └── raw/                  # Original Telco Customer Churn dataset (not hosted here - see Data Source)
 │
 ├── power-bi/                 # Power BI dashboard file (.pbix)
 │
@@ -99,7 +99,6 @@ Telecom-Churn-Analysis/
 ## Data Source 
 
 This project uses the [Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) (7,043 customer records). Download the CSV and place it in data/raw/ to reproduce this analysis.
-
 
 ---
 
@@ -170,12 +169,13 @@ Churned customers average $74.44/month vs. $61.27 for retained customers. Senior
 ---
 
 ## 9. Assumptions & Limitations
+
 ### Assumptions
 - The dataset was assumed to represent a complete and accurate snapshot of customer accounts at the time of extraction, with no independent validation against the company's live billing system.
 - Churn was treated as a fixed outcome (Yes/No) for each customer, without visibility into churn timing relative to the snapshot date.
 
 ### Limitations
-- This is a single-point-in-time snapshot rather than time-series data, so trends in churn rate over time cannot be assessed — only cross-sectional patterns.
+- This is a single-point-in-time snapshot rather than time-series data, so trends in churn rate over time cannot be assessed - only cross-sectional patterns.
 - No customer support interaction or complaint data was available, limiting the ability to link service issues directly to churn.
 - The dataset doesn't include reasons customers gave for leaving, so drivers are inferred from correlation with account attributes, not directly confirmed causes.
 
